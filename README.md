@@ -1,5 +1,5 @@
 0x11. C - printf
-Foundations - Low-level programming & Algorithm ― By: Julien Barbier, co-founder & CEO. Project to be done in teams of 2 people (Project to be done in teams of 2 people (your team: Tolulope Tolulope, Justice Maduka)
+Foundations - Low-level programming & Algorithm- By: Julien Barbier, co-founder & CEO. Project to be done in teams of 2 people (Project to be done in teams of 2 people (your team: Tolulope Tolulope, Justice Maduka)
 
 Background Context
 Write your own printf function.
